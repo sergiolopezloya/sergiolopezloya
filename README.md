@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiolopezloya" alt="sergiolopezloya" /></a> </p>
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently using **JavaScript, Phaser, PHP, Cordova ...**
 
 - 👨‍💻 All of my projects are available at [https://www.softnya.com.mx/en/portfolio.html](https://www.softnya.com.mx/en/portfolio.html)
 
-- 💬 Ask me about **JavaScript, game development**
+- 💬 Ask me about **JavaScript, game development, app development**
 
 - 📫 How to reach me **sergiolopezloyamx@gmail.com**
 
