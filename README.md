@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, game development, app development**
 
-- 📫 How to reach me **sergiolopezloyamx@gmail.com**
+- 📫 How to reach me **sergiolopezloyamx@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sergio-lopez-loya/](https://www.linkedin.com/in/sergio-lopez-loya/)
 
